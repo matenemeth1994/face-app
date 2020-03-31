@@ -1,0 +1,34 @@
+.faceImg {
+  width: 400px;
+}
+
+.faceContainer {
+  position: relative;
+  text-align: center;
+  margin: 15vh 20vw;
+  display: inline-block;
+}
+
+.eyeImages {
+  position: absolute;
+  display: flex;
+  top: 150px;
+  left: 200px;
+}
+
+.leftImg {
+  height: 10px;
+}
+
+// .rotate {
+//   animation: rotation 8s infinite linear;
+// }
+
+// @keyframes rotation {
+//   from {
+//     transform: rotate(0deg);
+//   }
+//   to {
+//     transform: rotate(359deg);
+//   }
+// }

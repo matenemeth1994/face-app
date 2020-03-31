@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,CAAC;EACP,KAAK,EAAE,IAAI;EACX,YAAY,EAAE,IAAI;CACnB",
+    "sources": [
+        "LeftEye.module.scss"
+    ],
+    "names": [],
+    "file": "LeftEye.module.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,SAAS,CAAC;EACR,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,IAAI;EAChB,WAAW,EAAE,IAAI;CAClB",
+    "sources": [
+        "RightEye.module.scss"
+    ],
+    "names": [],
+    "file": "RightEye.module.css"
+}
